@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a server for ichat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinny",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
